@@ -33,4 +33,4 @@ rhook = hookfunction(syn.request,function(self)
     return rhook(self)
 end)
 
-loadstring(game:HttpGet("https://github.com/JahsHub/Wrath-Admin-Leaked-LOL/blob/main/WrathAdmin", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JahsHub/Wrath-Admin-Leaked-LOL/main/WrathAdmin", true))()
